@@ -1,3 +1,9 @@
+<div align="center">
+    <img width="300" src="./assets/main.gif"/>
+    <br/>
+    <br/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:0f1535,100:1a0533&height=200&section=header&text=Kriti%20Maheshwari&fontSize=65&fontColor=f0e6ff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20DevOps&descAlignY=62&descSize=14&animation=fadeIn&stroke=a855f7&strokeWidth=1"/>
 
 <div align="center">
