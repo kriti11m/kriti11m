@@ -122,7 +122,7 @@ Full-stack maintenance management platform for students & admins.
 ### PortfoliAI — WhatsApp AI Portfolio Builder
 `2025` · `Node.js` · `TypeScript` · `Firebase` · `Twilio` · `Puppeteer`
 
-WhatsApp-based AI assistant for automated portfolio generation — **1000+ monthly users**.
+WhatsApp-based AI assistant for automated portfolio generation.
 
 ✦ NLP pipelines via Twilio delivering structured JSON/HTML content  
 ✦ ATS-compliant HTML/PDF generation with Puppeteer + GitHub API  
