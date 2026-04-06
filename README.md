@@ -22,9 +22,6 @@
     <a href="mailto:kritiimaheshwari@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-f2cdcd?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Gmail"/>
     </a>
-    <a href="tel:+917078452778">
-        <img src="https://img.shields.io/badge/-+91 7078452778-eba0ac?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Phone"/>
-    </a>
 </div>
 
 <br/>
@@ -40,7 +37,6 @@ identity:
   name:         "Kriti Maheshwari"
   role:         "Full-Stack & Software Engineer"
   university:   "Vellore Institute of Technology, Vellore"
-  cgpa:         8.75
   graduating:   2027
 
 engineering_focus:
@@ -51,7 +47,7 @@ engineering_focus:
   - Database Design         →  PostgreSQL, Firebase, Oracle
 
 currently:
-  building:   "AI-powered tools & full-stack platforms 🌷"
+  building:   "AI-powered tools & full-stack platforms "
   learning:   "Distributed Systems · System Design · LLM Tooling"
   vibe:       "coffee + code + curiosity ☕"
   open_to:    "SDE Internships · Open Source · Collabs"
