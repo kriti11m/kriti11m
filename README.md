@@ -1,14 +1,10 @@
 <div align="center">
     <img width="280" src="./assets/main.gif"/>
     <br/><br/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:0f1535,100:1a0533&height=200&section=header&text=Kriti%20Maheshwari&fontSize=65&fontColor=f0e6ff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20AI%20%2F%20ML%20%E2%80%A2%20DevOps&descAlignY=62&descSize=14&animation=fadeIn&stroke=a855f7&strokeWidth=1"/>
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&duration=2500&pause=3000&color=E8B4D8&center=true&repeat=false&width=700&height=70&lines=Hey+there!+I'm+Kriti+Maheshwari+✨" alt="Typing SVG"/>
-    </a>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:0f1535,100:1a0533&height=200&section=header&text=Kriti%20Maheshwari&fontSize=65&fontColor=f0e6ff&fontAlignY=38"/>
     <br/>
-    <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Engineer+%F0%9F%8C%B8+%7C+Backend+Systems+%7C+AI+%2F+ML;Building+things+that+are+fast%2C+intelligent+%26+human-centered+%F0%9F%92%AB;DevSOC+'26+Winner+%7C+Adobe+Top+100+%7C+Code2Create+Winner" alt="Typing SVG"/>
-    </a>
+
 </div>
 
 <br/>
