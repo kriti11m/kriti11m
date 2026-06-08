@@ -3,8 +3,7 @@
     <br/><br/>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,40:0f1535,100:1a0533&height=200&section=header&text=Kriti%20Maheshwari&fontSize=65&fontColor=f0e6ff&fontAlignY=38"/>
     <br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Engineer+%F0%9F%8C%B8+%7C+Backend+Systems+%7C+AI+%2F+ML;Building+things+that+are+fast%2C+intelligent+%26+human-centered+%F0%9F%92%AB;DevSOC+'26+Winner+%7C+Adobe+Top+100+%7C+Code2Create+Winner" alt="Typing SVG"/>
-
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&height=30&lines=Full-Stack+Engineer+%F0%9F%8C%B8+%7C+Backend+Systems+%7C+AI+%2F+ML;Building+things+that+are+fast%2C+intelligent+%26+human-centered+%F0%9F%92%AB;DevSOC+'26+Winner+%7C+Adobe+Top+100+%7C+Code2Create+Winner" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -44,9 +43,9 @@ engineering_focus:
   - Database Design         →  PostgreSQL, Firebase, Oracle
 
 currently:
-  building:   "AI-powered tools & full-stack platforms "
+  building:   "AI-powered tools & full-stack platforms"
   learning:   "Distributed Systems · System Design · LLM Tooling"
-  vibe:       "coffee + code + curiosity ☕"
+  vibe:       "coffee + code + curiosity"
   open_to:    "SDE Internships · Open Source · Collabs"
 
 contact:      "kritiimaheshwari@gmail.com"
@@ -63,11 +62,11 @@ contact:      "kritiimaheshwari@gmail.com"
 ### Vanderlande Logistics &nbsp; `May – Jun 2025`
 **Software Engineering Intern** &nbsp; · &nbsp; Noida
 
-Built a **Smart Tracking System** with `Java 17`, `Spring Boot` & `PostgreSQL` — secure REST APIs powering real-time logistics.
+Built a Smart Tracking System using `Java 17`, `Spring Boot`, and `PostgreSQL` — secure REST APIs powering real-time logistics operations.
 
-- 🔲 ReactJS dashboard with QR scanning & OTP verification
-- 📧 Automated email notification pipeline
-- 🔄 Agile delivery — sprint planning, code reviews, CI/CD
+- ReactJS dashboard with QR scanning and OTP verification
+- Automated email notification pipeline
+- Agile delivery across sprint planning, code reviews, and CI/CD
 
 </td>
 <td width="50%" valign="top">
@@ -77,9 +76,9 @@ Built a **Smart Tracking System** with `Java 17`, `Spring Boot` & `PostgreSQL` �
 
 `Python` · `YOLOv11` · `OpenCV` · `FastAPI` · `PostgreSQL`
 
-- 🎥 Real-time vehicle detection from live video streams
-- 🔡 Indian license plate normalization + OCR pipeline
-- 📊 Backend tracking service with real-time analytics dashboard
+- Real-time vehicle detection from live video streams
+- Indian license plate normalization and OCR pipeline
+- Backend tracking service with a real-time analytics dashboard
 
 </td>
 </tr>
@@ -93,14 +92,14 @@ Built a **Smart Tracking System** with `Java 17`, `Spring Boot` & `PostgreSQL` �
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 LucidFiles — Semantic File Explorer
+### LucidFiles — Semantic File Explorer
 `2025` · `Electron` · `React` · `FastAPI` · `Qdrant` · `OpenAI`
 
-AI-driven semantic file explorer with enterprise-style search across PDFs, images & handwritten docs.
+An AI-driven semantic file explorer with enterprise-style search across PDFs, images, and handwritten documents.
 
-✦ OCR + handwriting recognition (95% printed, 80–90% handwritten)  
-✦ LLM-based Q&A with structured JSON outputs & citations  
-✦ **20–40× faster retrieval** via LRU caching & real-time auto-indexing  
+- OCR and handwriting recognition — 95% accuracy on printed, 80–90% on handwritten content
+- LLM-based Q&A with structured JSON outputs and citations
+- 20–40x faster retrieval via LRU caching and real-time auto-indexing
 
 </td>
 <td width="50%" valign="top">
@@ -108,11 +107,11 @@ AI-driven semantic file explorer with enterprise-style search across PDFs, image
 ### RoomResQ — Hostel Maintenance System
 `2024` · `ReactJS` · `Spring Boot` · `PostgreSQL` · `Firebase Auth`
 
-Full-stack maintenance management platform for students & admins.
+A full-stack maintenance management platform built for students and administrators.
 
-✦ Spring Boot REST backend with JWT auth & role management  
-✦ Responsive ReactJS frontend with real-time updates & dashboards  
-✦ PostgreSQL for reliable, scalable data persistence  
+- Spring Boot REST backend with JWT auth and role management
+- Responsive ReactJS frontend with real-time updates and dashboards
+- PostgreSQL for reliable, scalable data persistence
 
 </td>
 </tr>
@@ -122,22 +121,18 @@ Full-stack maintenance management platform for students & admins.
 ### PortfoliAI — WhatsApp AI Portfolio Builder
 `2025` · `Node.js` · `TypeScript` · `Firebase` · `Twilio` · `Puppeteer`
 
-WhatsApp-based AI assistant for automated portfolio generation.
+A WhatsApp-based AI assistant for automated portfolio generation.
 
-✦ NLP pipelines via Twilio delivering structured JSON/HTML content  
-✦ ATS-compliant HTML/PDF generation with Puppeteer + GitHub API  
-✦ Scalable CI/CD via GitHub Actions, multilingual input support  
+- NLP pipelines via Twilio delivering structured JSON and HTML content
+- ATS-compliant HTML/PDF generation with Puppeteer and GitHub API integration
+- Scalable CI/CD via GitHub Actions with multilingual input support
 
 </td>
 <td width="50%" valign="top">
 
 ### More on GitHub
-All my experiments, open-source work & side projects live at  
-**[github.com/kriti11m](https://github.com/kriti11m)**
 
-Feel free to explore!
-
-
+All experiments, open-source contributions, and side projects live at **[github.com/kriti11m](https://github.com/kriti11m)** — feel free to explore.
 
 </td>
 </tr>
@@ -145,7 +140,7 @@ Feel free to explore!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -179,16 +174,13 @@ Feel free to explore!
 
 <br/>
 
-|  Event | Result | Year |
-|:---------|:---------:|:-------:|
-| **DevSOC '26** — Sponsor Track |  Winner | 2026 |
-| **Code2Create Hackathon** — Best Solution in Track |  1st Place | 2025 |
+| Event | Result | Year |
+|:------|:------:|:----:|
+| **DevSOC '26** — Sponsor Track | Winner | 2026 |
+| **Code2Create Hackathon** — Best Solution in Track | 1st Place | 2025 |
 | **Adobe India Hackathon** — Top 100 out of 2,00,000+ teams | Top 100 | 2025 |
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -197,7 +189,5 @@ Feel free to explore!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:2d1b4e&height=100&section=footer&fontColor=E8B4D8"/>
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=kriti11m&label=Profile+Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-
 
 </div>
